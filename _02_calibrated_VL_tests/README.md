@@ -1,4 +1,4 @@
-*General Information
+# General Information
 
 The _00_static folder contains files that are common to all tests. The other folders contain files that are specific to each test.
 

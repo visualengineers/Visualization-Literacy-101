@@ -18,5 +18,5 @@ For Reference, see: <https://lipanski.com/posts/smallest-docker-image-static-web
 ```shell
 git clone https://github.com/visualengineers/Visualization-Literacy-101.git
 docker build -t vislit .
-docker run --name=vislit-test -d -p=5005:3000 --restart always visualengineers/vislit-test
+docker run --name=vislit-test -d -p=5005:3000 --restart always vislit
 ```
